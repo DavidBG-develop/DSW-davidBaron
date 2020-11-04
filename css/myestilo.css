@@ -1,0 +1,33 @@
+nav {
+    background-color: #F0B429;
+}
+
+footer {
+    background-color: rgb(3, 3, 34);
+    color: oldlace;
+    background-color: #005883;
+}
+
+.logo {
+    width: 106%;
+    padding-bottom: 0px;
+    background-color: aliceblue;
+}
+
+.fondo_titulo {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+    padding: 1rem 2rem;
+    background-color: #005883;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+h4 {
+    color: white;
+}
