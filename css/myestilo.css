@@ -1,5 +1,6 @@
 nav {
     background-color: #F0B429;
+    padding-left: 15px;
 }
 
 footer {
@@ -30,4 +31,8 @@ h1 {
 
 h4 {
     color: white;
+}
+
+.datos_personales {
+    padding: 10%;
 }
